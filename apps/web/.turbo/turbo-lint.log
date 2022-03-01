@@ -1,0 +1,6 @@
+[32mweb:lint: [0mcache hit, replaying output [2m3f300d22c98f5cb7[0m
+[32mweb:lint: [0m
+[32mweb:lint: [0m> web@0.0.0 lint /home/ntwarie/Documents/ntwari egide stuffs/advanced-concepts/my-turborepo/apps/web
+[32mweb:lint: [0m> next lint
+[32mweb:lint: [0m
+[32mweb:lint: [0m✔ No ESLint warnings or errors

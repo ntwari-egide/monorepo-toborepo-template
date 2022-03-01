@@ -1,0 +1,6 @@
+[35mdocs:lint: [0mcache hit, replaying output [2m68cac0ff32be41a3[0m
+[35mdocs:lint: [0m
+[35mdocs:lint: [0m> docs@0.0.0 lint /home/ntwarie/Documents/ntwari egide stuffs/advanced-concepts/my-turborepo/apps/docs
+[35mdocs:lint: [0m> next lint
+[35mdocs:lint: [0m
+[35mdocs:lint: [0m✔ No ESLint warnings or errors
